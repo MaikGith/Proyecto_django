@@ -1,0 +1,18 @@
+django==3.2.16
+# Libreria para proteger bien nuestras datos sensibles
+django-environ==0.9.0
+# Libreria para la comunicación del Backend y Frontend
+django-cors-headers==3.13.0
+# Libreia para la creación de Api's en django
+djangorestframework==3.14.0
+# Libreria para el manejo de imagenes
+Pillow==9.3.0
+# Guargar imagenes en AWS
+django-storages==1.13.1
+# Libreria para crear contenido de una manera mas bonita
+django-ckeditor==6.3.2
+# Libreria para el manejo de base de datos en Postgres SQL
+psycopg2==2.9.5
+
+
+
